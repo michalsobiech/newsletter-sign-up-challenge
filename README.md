@@ -38,7 +38,7 @@ Desktop
 ### Links
 
 - Solution URL: [Github](https://github.com/michalsobiech/newsletter-sign-up-challenge.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github pages](https://michalsobiech.github.io/newsletter-sign-up-challenge/)
 
 ## Built with
 
